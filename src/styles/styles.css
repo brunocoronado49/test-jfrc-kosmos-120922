@@ -1,0 +1,67 @@
+.card {
+  transition: 0.3s;
+  border-radius: 10px;
+  width: 80%;
+  cursor: pointer;
+  margin: 20px;
+  margin-top: 60px;
+  float: left;
+  background-color: #eef0f1;
+  color: #2c3a47;
+}
+
+.container {
+  padding: 2px 16px;
+  align-items: center;
+}
+
+.btn-delete {
+  width: 30%;
+  background-color: #eb4d4b;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px 10px;
+  margin: 8px;
+  border-radius: 50px;
+  cursor: pointer;
+  border: none;
+}
+
+.form {
+  border-radius: 5px;
+  padding: 40px;
+  margin: 20px;
+  align-items: center;
+}
+
+.input {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 50px;
+}
+
+.btn-save {
+  width: 80%;
+  background-color: #636e72;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px 10px;
+  margin: 8px 0;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 20px;
+  border: none;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
